@@ -1,0 +1,19 @@
+<SAFheader>
+</SAFheader>
+
+<SampleGlobalInfo>
+# xsection     xsection_error nevents        sum_weight+    sum_weight-    
+2.982413e-01   5.505595e-04   10000          2.982413e+03   0.000000e+00   
+</SampleGlobalInfo>
+
+<FileInfo>
+"/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/PROC_Tutorial_UFO_0/Events/run_01/unweighted_events.lhe.gz" # file 1 / 1
+</FileInfo>
+
+<SampleDetailedInfo>
+# xsection     xsection_error nevents        sum_weight+    sum_weight-    
+2.982413e-01   5.505595e-04   10000          2.982413e+03   0.000000e+00    # file 1 / 1
+</SampleDetailedInfo>
+
+<SAFfooter>
+</SAFfooter>

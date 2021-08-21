@@ -1,0 +1,127 @@
+# This file was automatically created by FeynRules 2.3.13
+# Mathematica version: 10.0 for Mac OS X x86 (64-bit) (December 4, 2014)
+# Date: Sat 21 Nov 2015 09:58:56
+
+
+# 
+# This is the logfile for the model Tutorial
+
+# Authors: C. Duhr
+# Model version: 1.0
+# Checking the Quantum numbers
+   * Electric charge defined.
+# Checking the Lagrangians
+   * All Lagrangians are ok.
+#
+# Particle definitions
+#
+
+   * No particles removed. All particles correspond to GenInt setup.
+
+# Automatically assigned PDG numbers
+   * Assigned PDG number 9000001 to particle ghA
+   * Assigned PDG number 9000002 to particle ghZ
+   * Assigned PDG number 9000003 to particle ghWp
+   * Assigned PDG number 9000004 to particle ghWm
+   * Assigned PDG number 9000005 to particle p1
+   * Assigned PDG number 9000006 to particle p2
+   * Assigned PDG number 9000007 to particle uv
+   * Assigned PDG number 9000008 to particle ev
+
+
+# Compulsory PDG codes:
+   * Class SM leptons complete.
+   * Class SM neutrinos complete.
+   * Class SM quarks complete.
+   * Class SM gauge bosons complete.
+#
+# Parameter definitions
+#
+
+   * All parameters are ok.
+
+
+# Vertices
+   * Calling FeynmanRules for 1 Lagrangians.
+   * Number of classes vertices: 106
+   * Number of flavored vertices: 148
+   * Saved vertices in InterfaceRun[ 1 ].
+   * Checked QNumber conservation.
+      - Quantum number GhostNumber conserved in all vertices.
+      - Quantum number LeptonNumber NOT conserved in the following vertices
+          {p2, ebar, ev}
+          {p2, mubar, ev}
+          {p2, tabar, ev}
+          {p1, ebar, ev}
+          {p1, mubar, ev}
+          {p1, tabar, ev}
+          {p2, evbar, e}
+          {p2, evbar, mu}
+          {p2, evbar, ta}
+          {p1, evbar, e}
+          {p1, evbar, mu}
+          {p1, evbar, ta}
+      - Quantum number Q conserved in all vertices.
+      - Quantum number Y NOT conserved in the following vertices
+          {p2, ubar, uv}
+          {p2, cbar, uv}
+          {p2, tbar, uv}
+          {p2, ebar, ev}
+          {p2, mubar, ev}
+          {p2, tabar, ev}
+          {p1, ubar, uv}
+          {p1, cbar, uv}
+          {p1, tbar, uv}
+          {p1, ebar, ev}
+          {p1, mubar, ev}
+          {p1, tabar, ev}
+          {p2, uvbar, u}
+          {p2, uvbar, c}
+          {p2, uvbar, t}
+          {p2, evbar, e}
+          {p2, evbar, mu}
+          {p2, evbar, ta}
+          {p1, uvbar, u}
+          {p1, uvbar, c}
+          {p1, uvbar, t}
+          {p1, evbar, e}
+          {p1, evbar, mu}
+          {p1, evbar, ta}
+   * particles.py written.
+   * parameters.py written.
+#
+# Vertex definitions
+#
+
+   * 148 vertices written.
+   * vertices.py written.
+#
+# Lorentz structure definitions
+#
+
+   * 18 lorentz structures written.
+   * lorentz.py written.
+#
+# Coupling definitions
+#
+
+   * 82 couplings written.
+   * couplings.py written.
+#
+# Coupling order definitions
+#
+
+   * 0 couplings orders written.
+   * coupling_orders.py written.
+#
+# Decay definitions
+#
+
+   * 10 decays written.
+   * decay.py not written
+#
+# CTCoupling definitions
+#
+
+   * 0 CTcouplings written.
+   * CT_couplings.py written.

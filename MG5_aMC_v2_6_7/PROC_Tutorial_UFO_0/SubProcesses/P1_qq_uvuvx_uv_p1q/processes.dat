@@ -1,0 +1,6 @@
+1       u u~ > p1 c uv~,c c~ > p1 c uv~
+mirror  u~ u > p1 c uv~,c~ c > p1 c uv~
+2       u c~ > p1 c uv~,c u~ > p1 c uv~
+mirror  c~ u > p1 c uv~,u~ c > p1 c uv~
+3       d d~ > p1 c uv~,s s~ > p1 c uv~
+mirror  d~ d > p1 c uv~,s~ s > p1 c uv~

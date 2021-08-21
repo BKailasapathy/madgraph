@@ -1,0 +1,7 @@
+------------------------------------------------
+MG5aMC_PY8_interface compilation output log:
+g++ MG5aMC_PY8_interface.cc ../lib/libpythia8.a -o MG5aMC_PY8_interface -I/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/HEPTools/hepmc/include\
+ /afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/HEPTools/MG5aMC_PY8_interface/static_library_dependencies/libHepMC.a -I../include -ldl -fPIC -lstdc++ -DHEPMC2HACK -L../lib -Wl,-rpath,../lib -lpythia8 -ldl   -DGZIPSUPPORT -I/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/HEPTools/zlib/include  -L/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/HEPTools/zlib/lib -Wl,-rpath,/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/HEPTools/zlib/lib -lz
+
+------------------------------------------------
+Successful compilation of the MG5aMC_PY8_interface.

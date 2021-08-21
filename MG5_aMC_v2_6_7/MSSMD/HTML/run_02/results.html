@@ -1,0 +1,82 @@
+
+<head>
+    <title>Process results</title>
+    <script type="text/javascript" src="../sortable.js"></script>
+    <link rel=stylesheet href="../mgstyle.css" type="text/css">
+</head>
+<body>
+<script type="text/javascript">
+function UrlExists(url) {
+  var http = new XMLHttpRequest();
+  http.open('HEAD', url, false);
+  try{
+     http.send()
+     }
+  catch(err){
+   return 1==2;
+  }
+  return http.status!=404;
+}
+function check_link(url,alt, id){
+    var obj = document.getElementById(id);
+    if ( ! UrlExists(url)){
+        if ( ! UrlExists(alt)){
+         obj.href = alt;
+         return true;
+        }
+       obj.href = alt;
+       return false;
+    }
+    obj.href = url;
+    return 1==1;
+}
+</script>
+  
+
+ <BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>s= 17.642 &#177 0.0152 (pb)</b><br><br>
+<table class="sortable" id='tablesort'>
+<tr><th>Graph</th>
+    <th> Cross-Section</th>
+    <th>Error</th>
+    <th>Events (K)</th>
+    <th>Unwgt</th>
+    <th>Luminosity</th>
+</tr>
+
+<tr><td align=right>/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/MSSMD/SubProcesses/P1_gg_h</td>
+    <td align=right><a id="#/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/MSSMD/SubProcesses/P1_gg_h" href=#/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/MSSMD/SubProcesses/P1_gg_h onClick="check_link('#/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/MSSMD/SubProcesses/P1_gg_h','#/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/MSSMD/SubProcesses/P1_gg_h','#/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/MSSMD/SubProcesses/P1_gg_h')"> 17.64 </a> </td>
+    <td align=right>  0.0152</td>
+    <td align=right>  232.116</td>
+    <td align=right>  13199.0</td>
+    <td align=right>  0</td>
+</tr>
+
+</table>
+</center>
+<br><br><br>
+ <dl>  
+
+ <BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>s= 17.642 &#177 0.0152 (pb)</b><br><br>
+<table class="sortable" id='tablesort'>
+<tr><th>Graph</th>
+    <th> Cross-Section</th>
+    <th>Error</th>
+    <th>Events (K)</th>
+    <th>Unwgt</th>
+    <th>Luminosity</th>
+</tr>
+
+<tr><td align=right>G1</td>
+    <td align=right><a id="/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/MSSMD/SubProcesses/P1_gg_h/../../SubProcesses/P1_gg_h/G1/run1_app.log" href=/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/MSSMD/SubProcesses/P1_gg_h/../../SubProcesses/P1_gg_h/G1/run1_app.log onClick="check_link('/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/MSSMD/SubProcesses/P1_gg_h/../../SubProcesses/P1_gg_h/G1/run1_app.log','../../SubProcesses/P1_gg_h/G1/log.txt','/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/MSSMD/SubProcesses/P1_gg_h/../../SubProcesses/P1_gg_h/G1/run1_app.log')"> 17.64 </a> </td>
+    <td align=right>  0.0152</td>
+    <td align=right>  232.116</td>
+    <td align=right>  13199.0</td>
+    <td align=right>  748</td>
+</tr>
+
+</table>
+</center>
+<br><br><br>
+ </dl></body>

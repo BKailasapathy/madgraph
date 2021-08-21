@@ -1,0 +1,598 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6)
+ %&-line parsing enabled.
+entering extended mode
+(./main.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+(/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size10.clo)) (./jheppub.sty
+(/usr/share/texmf/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texmf/tex/latex/graphics/epsfig.sty
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+(/usr/share/texmf/tex/latex/graphics/trig.sty)
+(/usr/share/texmf/tex/latex/config/graphics.cfg)
+(/usr/share/texmf/tex/latex/graphics/dvips.def))))
+(/usr/share/texmf/tex/latex/natbib/natbib.sty)
+(/usr/share/texmf/tex/latex/graphics/color.sty
+(/usr/share/texmf/tex/latex/config/color.cfg)
+(/usr/share/texmf/tex/latex/graphics/dvipsnam.def))
+(/usr/share/texmf/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf/tex/latex/config/hyperref.cfg)
+(/usr/share/texmf/tex/latex/oberdiek/kvoptions.sty)
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf/tex/latex/html/url.sty))
+*hyperref using default driver hdvips*
+(/usr/share/texmf/tex/latex/hyperref/hdvips.def
+(/usr/share/texmf/tex/latex/hyperref/pdfmark.def))
+(/usr/share/texmf/tex/latex/psnfss/ot1phv.fd))
+(/usr/share/texmf/tex/latex/base/fontenc.sty
+(/usr/share/texmf/tex/latex/base/t1enc.def))
+(/usr/share/texmf/tex/latex/colortbl/colortbl.sty
+(/usr/share/texmf/tex/latex/tools/array.sty))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+(/usr/share/texmf/tex/latex/config/color.cfg))
+(/usr/share/texmf/tex/latex/float/float.sty)
+No file main.aux.
+(/usr/share/texmf/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf/tex/latex/oberdiek/refcount.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+(/usr/share/texmf/tex/latex/base/t1cmss.fd) <logo.eps>
+
+Package JHEP Warning: E-mails are missing.
+(JHEP)                Plese use \emailAdd macro to provide e-mails..
+
+(/usr/share/texmf/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+
+[0] [1] (/usr/share/texmf/tex/latex/base/t1cmtt.fd)
+Overfull \hbox (52.67569pt too wide) in paragraph at lines 50--107
+\T1/cmtt/m/n/10 ma5>import /-afs/-cern.ch/-work/-b/-bkailasa/-MCGens/-madgraph/
+-MG5_aMC_v2_6_7/-PROC_Tutorial_UFO_0/-
+
+Overfull \hbox (52.67569pt too wide) in paragraph at lines 50--107
+\T1/cmtt/m/n/10 ma5>import /-afs/-cern.ch/-work/-b/-bkailasa/-MCGens/-madgraph/
+-MG5_aMC_v2_6_7/-PROC_Tutorial_UFO_0/-
+
+Overfull \hbox (52.67569pt too wide) in paragraph at lines 50--107
+\T1/cmtt/m/n/10 ma5>submit /-afs/-cern.ch/-work/-b/-bkailasa/-MCGens/-madgraph/
+-MG5_aMC_v2_6_7/-PROC_Tutorial_UFO_0/-
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--107
+
+(/usr/share/texmf/tex/latex/base/omscmr.fd) [2]
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|\T1/cmr/m/n/10 PROC_Tutorial_UFO_0/-
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+\T1/cmr/m/n/10 Events/-run_01/-
+
+Overfull \hbox (18.13213pt too wide) in paragraph at lines 131--138
+ [] 
+[3]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 156--156
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 152--159
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--160
+
+<selection_0.eps> [4]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 178--178
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 174--181
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--182
+
+<selection_1.eps> [5]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 200--200
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 196--203
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--204
+
+<selection_2.eps> [6]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 222--222
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 218--225
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--226
+
+<selection_3.eps> [7]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 244--244
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 240--247
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--248
+
+<selection_4.eps> [8]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 266--266
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 262--269
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--270
+
+<selection_5.eps> [9]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 288--288
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 284--291
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--292
+
+<selection_6.eps> [10]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 310--310
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 306--313
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--314
+
+<selection_7.eps> [11]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 332--332
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 328--335
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--336
+
+<selection_8.eps> [12]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 354--354
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 350--357
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--358
+
+<selection_9.eps> [13]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 376--376
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 372--379
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--380
+
+<selection_10.eps> [14]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 398--398
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 394--401
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--402
+
+<selection_11.eps> [15]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 420--420
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 416--423
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--424
+
+<selection_12.eps> [16]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 442--442
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 438--445
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--446
+
+<selection_13.eps> [17]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 464--464
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 460--467
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--468
+
+<selection_14.eps> [18]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 486--486
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 482--489
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--490
+
+<selection_15.eps> [19]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 508--508
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 504--511
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--512
+
+<selection_16.eps> [20]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 530--530
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 526--533
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--534
+
+<selection_17.eps> [21]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 552--552
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 548--555
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--556
+
+<selection_18.eps> [22]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 574--574
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 570--577
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--578
+
+<selection_19.eps> [23]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 596--596
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 592--599
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 589--600
+
+<selection_20.eps> [24]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 618--618
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 614--621
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 611--622
+
+<selection_21.eps> [25] (./main.aux) )
+(see the transcript file for additional information)
+Output written on main.dvi (26 pages, 74772 bytes).
+Transcript written on main.log.
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6)
+ %&-line parsing enabled.
+entering extended mode
+(./main.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+(/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size10.clo)) (./jheppub.sty
+(/usr/share/texmf/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texmf/tex/latex/graphics/epsfig.sty
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+(/usr/share/texmf/tex/latex/graphics/trig.sty)
+(/usr/share/texmf/tex/latex/config/graphics.cfg)
+(/usr/share/texmf/tex/latex/graphics/dvips.def))))
+(/usr/share/texmf/tex/latex/natbib/natbib.sty)
+(/usr/share/texmf/tex/latex/graphics/color.sty
+(/usr/share/texmf/tex/latex/config/color.cfg)
+(/usr/share/texmf/tex/latex/graphics/dvipsnam.def))
+(/usr/share/texmf/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf/tex/latex/config/hyperref.cfg)
+(/usr/share/texmf/tex/latex/oberdiek/kvoptions.sty)
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf/tex/latex/html/url.sty))
+*hyperref using default driver hdvips*
+(/usr/share/texmf/tex/latex/hyperref/hdvips.def
+(/usr/share/texmf/tex/latex/hyperref/pdfmark.def))
+(/usr/share/texmf/tex/latex/psnfss/ot1phv.fd))
+(/usr/share/texmf/tex/latex/base/fontenc.sty
+(/usr/share/texmf/tex/latex/base/t1enc.def))
+(/usr/share/texmf/tex/latex/colortbl/colortbl.sty
+(/usr/share/texmf/tex/latex/tools/array.sty))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+(/usr/share/texmf/tex/latex/config/color.cfg))
+(/usr/share/texmf/tex/latex/float/float.sty) (./main.aux)
+(/usr/share/texmf/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf/tex/latex/oberdiek/refcount.sty)) (./main.out) (./main.out)
+(/usr/share/texmf/tex/latex/base/t1cmss.fd) <logo.eps>
+
+Package JHEP Warning: E-mails are missing.
+(JHEP)                Plese use \emailAdd macro to provide e-mails..
+
+(/usr/share/texmf/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+
+[0] (./main.toc) [1] (/usr/share/texmf/tex/latex/base/t1cmtt.fd)
+Overfull \hbox (52.67569pt too wide) in paragraph at lines 50--107
+\T1/cmtt/m/n/10 ma5>import /-afs/-cern.ch/-work/-b/-bkailasa/-MCGens/-madgraph/
+-MG5_aMC_v2_6_7/-PROC_Tutorial_UFO_0/-
+
+Overfull \hbox (52.67569pt too wide) in paragraph at lines 50--107
+\T1/cmtt/m/n/10 ma5>import /-afs/-cern.ch/-work/-b/-bkailasa/-MCGens/-madgraph/
+-MG5_aMC_v2_6_7/-PROC_Tutorial_UFO_0/-
+
+Overfull \hbox (52.67569pt too wide) in paragraph at lines 50--107
+\T1/cmtt/m/n/10 ma5>submit /-afs/-cern.ch/-work/-b/-bkailasa/-MCGens/-madgraph/
+-MG5_aMC_v2_6_7/-PROC_Tutorial_UFO_0/-
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--107
+
+(/usr/share/texmf/tex/latex/base/omscmr.fd) [2]
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|\T1/cmr/m/n/10 PROC_Tutorial_UFO_0/-
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+\T1/cmr/m/n/10 Events/-run_01/-
+
+Overfull \hbox (18.13213pt too wide) in paragraph at lines 131--138
+ [] 
+[3]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 156--156
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 152--159
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--160
+
+<selection_0.eps> [4]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 178--178
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 174--181
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--182
+
+<selection_1.eps> [5]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 200--200
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 196--203
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--204
+
+<selection_2.eps> [6]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 222--222
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 218--225
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--226
+
+<selection_3.eps> [7]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 244--244
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 240--247
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--248
+
+<selection_4.eps> [8]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 266--266
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 262--269
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--270
+
+<selection_5.eps> [9]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 288--288
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 284--291
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--292
+
+<selection_6.eps> [10]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 310--310
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 306--313
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--314
+
+<selection_7.eps> [11]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 332--332
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 328--335
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--336
+
+<selection_8.eps> [12]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 354--354
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 350--357
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--358
+
+<selection_9.eps> [13]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 376--376
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 372--379
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--380
+
+<selection_10.eps> [14]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 398--398
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 394--401
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--402
+
+<selection_11.eps> [15]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 420--420
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 416--423
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--424
+
+<selection_12.eps> [16]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 442--442
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 438--445
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--446
+
+<selection_13.eps> [17]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 464--464
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 460--467
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--468
+
+<selection_14.eps> [18]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 486--486
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 482--489
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--490
+
+<selection_15.eps> [19]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 508--508
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 504--511
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--512
+
+<selection_16.eps> [20]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 530--530
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 526--533
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--534
+
+<selection_17.eps> [21]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 552--552
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 548--555
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--556
+
+<selection_18.eps> [22]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 574--574
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 570--577
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--578
+
+<selection_19.eps> [23]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 596--596
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 592--599
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 589--600
+
+<selection_20.eps> [24]
+Overfull \hbox (18.48262pt too wide) in paragraph at lines 618--618
+[]|\T1/cmr/m/n/10 unweighted_events| 
+
+Overfull \hbox (55.33208pt too wide) in paragraph at lines 614--621
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 611--622
+
+<selection_21.eps> [25] (./main.aux) )
+(see the transcript file for additional information)
+Output written on main.dvi (26 pages, 85388 bytes).
+Transcript written on main.log.

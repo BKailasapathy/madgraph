@@ -1,0 +1,19 @@
+<SAFheader>
+</SAFheader>
+
+<SampleGlobalInfo>
+# xsection     xsection_error nevents        sum_weight+    sum_weight-    
+6.323598e-01   5.450439e-04   10000          6.323599e+03   0.000000e+00   
+</SampleGlobalInfo>
+
+<FileInfo>
+"/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/MSSMD/Events/run_02_decayed_1/unweighted_events.lhe.gz" # file 1 / 1
+</FileInfo>
+
+<SampleDetailedInfo>
+# xsection     xsection_error nevents        sum_weight+    sum_weight-    
+6.323598e-01   5.450439e-04   10000          6.323599e+03   0.000000e+00    # file 1 / 1
+</SampleDetailedInfo>
+
+<SAFfooter>
+</SAFfooter>

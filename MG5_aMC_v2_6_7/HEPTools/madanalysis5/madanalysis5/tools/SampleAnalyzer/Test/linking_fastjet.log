@@ -1,0 +1,1 @@
+c++ Fastjet/Test.o  -L/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Lib -L/afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Lib -lfastjet_for_ma5 -lcommons_for_ma5 -o ../Bin/TestFastjet

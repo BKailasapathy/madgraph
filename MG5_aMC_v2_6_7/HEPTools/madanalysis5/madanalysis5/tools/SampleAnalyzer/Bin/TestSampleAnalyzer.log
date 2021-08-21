@@ -1,0 +1,55 @@
+BEGIN-SAMPLEANALYZER-TEST
+
+    * SampleAnalyzer for MadAnalysis 5 - Welcome.
+      - version: 1.8.31 (2019/11/06) 
+      - general: everything is default.
+      - extracting the list of event samples...
+
+List of available analyzers:
+------------------------------------------
+Number of items: 1
+ -         mergingplots : PN3MA512AnalyzerBaseE @ 0xde7240
+------------------------------------------
+
+List of available readers:
+------------------------------------------
+Number of items: 9
+ -                  hep : PN3MA510ReaderBaseE @ 0xde6d30
+ -               hep.gz : PN3MA510ReaderBaseE @ 0xde6d30
+ -                hepmc : PN3MA510ReaderBaseE @ 0xde6f70
+ -             hepmc.gz : PN3MA510ReaderBaseE @ 0xde6f70
+ -                 lhco : PN3MA510ReaderBaseE @ 0xde6bb0
+ -              lhco.gz : PN3MA510ReaderBaseE @ 0xde6bb0
+ -                  lhe : PN3MA510ReaderBaseE @ 0xde6a40
+ -               lhe.gz : PN3MA510ReaderBaseE @ 0xde6a40
+ -                 root : PN3MA510ReaderBaseE @ 0xde7130
+------------------------------------------
+
+List of available writers:
+------------------------------------------
+Number of items: 4
+ -                 lhco : PN3MA510WriterBaseE @ 0xde6430
+ -              lhco.gz : PN3MA510WriterBaseE @ 0xde6430
+ -                  lhe : PN3MA510WriterBaseE @ 0xde6400
+ -               lhe.gz : PN3MA510WriterBaseE @ 0xde6400
+------------------------------------------
+
+List of available JetClusterer:
+------------------------------------------
+Number of items: 8
+ -               antikt : PN3MA512JetClustererE @ 0xde74f0
+ -            cambridge : PN3MA512JetClustererE @ 0xde77a0
+ -            cdfjetclu : PN3MA512JetClustererE @ 0xde7b80
+ -          cdfmidpoint : PN3MA512JetClustererE @ 0xde7a70
+ -                genkt : PN3MA512JetClustererE @ 0xde7640
+ -              gridjet : PN3MA512JetClustererE @ 0xde7cb0
+ -                   kt : PN3MA512JetClustererE @ 0xde73c0
+ -              siscone : PN3MA512JetClustererE @ 0xde78e0
+------------------------------------------
+
+List of available DetectorSimList:
+------------------------------------------
+Number of items: 0
+------------------------------------------
+
+END-SAMPLEANALYZER-TEST

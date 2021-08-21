@@ -1,0 +1,12 @@
+set main.currentdir = /afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/MSSMD
+import /afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/MSSMD/bin/internal/ufomodel
+import /afs/cern.ch/work/b/bkailasa/MCGens/madgraph/MG5_aMC_v2_6_7/MSSMD/Events/run_02_decayed_1/unweighted_events.lhe.gz as unweighted_events
+define vl = 12 14 16
+define vl~ = -16 -14 -12
+define invisible = ve ve~ vm vm~ vt vt~ vl vl~
+set main.graphic_render = root
+plot THT   40 0 500 [logY]
+plot MET   40 0 500 [logY]
+plot SQRTS 40 0 500 [logY]
+plot  PT(h[1]) 40 0  500 [logY]
+plot ETA(h[1]) 40 -10 10 [logY]
